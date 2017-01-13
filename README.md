@@ -7,5 +7,5 @@
 <body>
 <p>My favorite class so far was BME100. Not only was I inspired to continue pursuing my dream, but I got in A in the class AND my team and I won best presentation for our poster project!  It was exciting and I truly enjoyed everything we did!</p>
 <p>Here is a picture of my team and I after the big win!</p>
-<img src="IMG_1225.JPG" alt="Group 9 Photo" />
+<img src="http://imgur.com/HwQveoU" alt="Group 9 Photo" />
 <html>
